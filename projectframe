@@ -1,0 +1,8 @@
+project-frame/
+│
+├── index.html        (frameset)
+├── header.html
+├── menu.html
+├── content.html
+├── footer.html
+└── style.css         (CSS EKSTERNAL)
